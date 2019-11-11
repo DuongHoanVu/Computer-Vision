@@ -55,6 +55,7 @@ This repository includes any projects that I have done online classes (Rajeev Ra
     2/ Credit Card Reader:
     3/ Facial Recognition:      
     4/ Object recognition:      using pre-trained model of Yolo3, derived from DarkNet and DarkFlow, to detect objects: car, bus, people
+    5/ GAN:                     creating artificial digit number by computer
     
 #### Additional Knowledge taken away from the course
     
